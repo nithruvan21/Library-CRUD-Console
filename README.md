@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>CRUD Console Application</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            background-color: #fff;
-            padding: 30px;
-            border-radius: 10px;
-            margin: auto;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        h1, h2 {
-            color: #333;
-        }
-        code {
-            background-color: #eee;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 6px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
 <body>
 <div class="container">
     <h1>CRUD Console Application</h1>
@@ -95,5 +59,3 @@ Enter your choice:
     <h2>📜 License</h2>
     <p>This project is licensed under the MIT License.</p>
 </div>
-</body>
-</html>
