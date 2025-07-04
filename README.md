@@ -1,5 +1,3 @@
-<body>
-<div class="container">
     <h1>CRUD Console Application</h1>
     <p>This is a simple Java-based CRUD (Create, Read, Update, Delete) application that runs in the console. It allows users to manage data using text-based input/output.</p>
 
@@ -13,7 +11,6 @@
     </ul>
 
     <h2>📁 Project Structure</h2>
-    <pre>
 crudconsole/
 │
 ├── src/
@@ -23,7 +20,6 @@ crudconsole/
 │
 ├── README.html
 └── ...
-    </pre>
 
     <h2>💻 How to Run</h2>
     <ol>
@@ -58,4 +54,3 @@ Enter your choice:
 
     <h2>📜 License</h2>
     <p>This project is licensed under the MIT License.</p>
-</div>
